@@ -19,7 +19,7 @@ This guide explains how to set up and run the Daycare Parent Application.
 
 - **Start Metro Bundler:**
   ```bash
-  npm start
+  npx expo start --clear
   ```
   This will start the Expo development server. You can then:
   - Press `a` to run on Android Emulator.
